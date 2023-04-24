@@ -1,1 +1,1 @@
-# k6-load-test-scenarios
+Исходный код сценариев сравнения Redis и Tarantool для K6 
